@@ -12,6 +12,7 @@ use anchor_lang::solana_program::program::invoke;
 use mpl_token_metadata::state::Creator;
 declare_id!("DjmjJdk6BK4JxLNUccicPbofcTCrNZU5avE4mnenPxxC");
 
+// Business logic
 #[program]
 pub mod nft_breeding {
 
