@@ -26,7 +26,7 @@
 - Initialization is **only** for genesis (Generation 0)
 - Change Upgrade Authority of NFT to Breeding PDA signer so that the used NFT can be burnt by Breeding program
 
-## 2. Compute New Data
+## 2. Compute the New Data
 
 ![](https://hackmd.io/_uploads/S1k-rex6q.png)
 
